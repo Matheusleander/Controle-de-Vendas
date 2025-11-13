@@ -2,7 +2,7 @@
 
 ## 📋 Descrição
 Projeto desenvolvido como parte do curso de **Programador Web**, com o objetivo de praticar o uso das principais tecnologias para desenvolvimento de aplicações web.  
-O sistema tem como finalidade **cadastrar produtos, vendedores, registrar vendas e fazer uma lista **, realizar **login** e direcionar o usuário para a **página principal** do sistema de controle de vendas.
+O sistema tem como finalidade cadastrar produtos, vendedores, registrar vendas e fazer uma lista, realizar **login** e direcionar o usuário para a **página principal** do sistema de controle de vendas.
 
 ## 🧰 Tecnologias Utilizadas
 - **Banco de dados:** MySQL  
